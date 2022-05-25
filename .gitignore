@@ -30,3 +30,4 @@ Thumbs.db
 !/settings.gradle
 !/.editorconfig
 !/detekt.yml
+gradle.properties
